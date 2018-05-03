@@ -10,7 +10,6 @@
   <head>
     <title>spring in action</title>
   </head>
-  <body>
-  $END$
+  niasdfjiasdjifasd
   </body>
 </html>
